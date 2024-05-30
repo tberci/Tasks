@@ -1,0 +1,8 @@
+.metadata/
+bin/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
